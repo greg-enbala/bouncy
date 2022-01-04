@@ -208,7 +208,7 @@ void main() {
      }
      
     
-
      ppu_wait_frame();
+     
    }
 }
